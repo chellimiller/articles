@@ -237,4 +237,6 @@ well-supported and well-documented, but it is not as critical.
 
 - [Monolithic codebases vs monorepos](https://github.com/giltayar/bilt/blob/main/docs/monolithic-vs-monorepos.md)
 
-[reusability]: ./reusability.md
+[monorepos]: /../../README.md
+[reusability]: /../../monorepos/reusability.md
+[why]: /../../monorepos/why.md

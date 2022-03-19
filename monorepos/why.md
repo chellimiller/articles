@@ -95,6 +95,6 @@ A client application may want the following:
 [wiki_solid]: https://en.wikipedia.org/wiki/SOLID
 [wiki_dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [wiki_di]: https://en.wikipedia.org/wiki/Dependency_inversion_principle
-[monorepos]: ./README.md
-[monolith]: ./monolith.md
-[reusability]: ./reusability.md
+[monorepos]: /../../README.md
+[reusability]: /../../monorepos/reusability.md
+[why]: /../../monorepos/why.md
